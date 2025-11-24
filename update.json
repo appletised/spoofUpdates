@@ -1,8 +1,8 @@
     {
-      "versionCode": 15,
-      "versionName": "1.2.3",
+      "versionCode": 16,
+      "versionName": "1.2.4",
       "downloadUrl": "https://github.com/appletised/spoofupdates/releases/download/updates/gpsstick.apk",
-      "changelog": "• security update\n• new features soon. iv scanner potentially",
-      "checksum": "8E450514BC90E786EDCD0ECA92F0A904AD6EBD91513E6473ACC1E702B2899E99"
+      "changelog": "• security update\n• reopen the app after it closes",
+      "checksum": "F8BF6520771D75256E831BD28E9ADB7AF80FE7FAC0793F7AAF80A3EDD32A7B96"
     }
     
